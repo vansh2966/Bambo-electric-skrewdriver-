@@ -15,12 +15,13 @@ well i always wanted and electric skrewdriver, cuz it makes screwing soo much ea
 <img width="1020" height="703" alt="image" src="https://github.com/user-attachments/assets/9b24a9f3-4015-46eb-add5-cfbf86b0f064" />
 
 **BOM:**
-Materials,Qty,Cost,Links
-N20 gear motor,1,240rs/2.52$,https://robocraze.com/products/600-rpm-12v-n20-dc-metal-gear-motor-with-cable?variant=51163867185376
-lipo battry,2,188+188rs/3.94$,https://robu.in/product/wly601145-300mah-3-7v-single-cell-rechargeable-lipo-battery/
-charging module,1,309rs/3.24$,https://robu.in/product/18650-polymer-lithium-ion-charger-type-c-to-2s-8-4v-2a-booster-module/
-micro swtich,2,30rs/0.31$,https://robocraze.com/products/microswitch-kw10-z1p-limit-switch-1a-125v-ac?variant=43027758186720
-Shaft Coupler Rigid Coupling Motor Connector,1,479rs/5.2$,https://www.amazon.in/VELURA-Flexible-Coupler-Coupling-Connector/dp/B0GGBF8W29/
-3D printed parts,1,88+33+33/1.61$,https://robu.in
-Total,,1588rs/16.64$,
+| Materials | Qty | Cost | Link |
+| :--- | :---: | :--- | :--- |
+| N20 gear motor | 1 | 240rs / $2.52 | [RoboCraze](https://robocraze.com/products/600-rpm-12v-n20-dc-metal-gear-motor-with-cable) |
+| LiPo Battery (300mAh 3.7V) | 2 | 188+188rs / $3.94 | [Robu.in](https://robu.in/product/wly601145-300mah-3-7v-single-cell-rechargeable-lipo-battery/) |
+| 2S Type-C Charging Module | 1 | 309rs / $3.24 | [Robu.in](https://robu.in/product/18650-polymer-lithium-ion-charger-type-c-to-2s-8-4v-2a-booster-module/) |
+| Micro Switch | 2 | 30rs / $0.31 | [RoboCraze](https://robocraze.com/products/microswitch-kw10-z1p-limit-switch-1a-125v-ac) |
+| Shaft Coupler | 1 | 479rs / $5.20 | [Amazon](https://www.amazon.in/VELURA-Flexible-Coupler-Coupling-Connector/dp/B0GGBF8W29/) |
+| 3D Printed Parts | 1 | 88+33+33 / $1.61 | [Robu.in](https://robu.in) |
+| **Total** | | **1588rs / $16.64** | |
 
