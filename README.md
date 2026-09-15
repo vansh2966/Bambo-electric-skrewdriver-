@@ -2,6 +2,20 @@
 
 well i always wanted and electric skrewdriver, cuz it makes screwing soo much easier, so i though instead of buying one online why not make it one. a simple electric skrew driver to skrew skrews. not much of story behind it.
 
+**feautres :** 
+battery operated
+clock/anti-clock wise roation
+usb type c charging
+enough torque and speed for mini screws
+
+**ASSEMBLY INRUSTIONS**
+1) wire everything according to diagram, make sure u wire motor to the switch after inserting it into body
+2) screw the top lid to the motor and close it with superglue (u can change cad model to add screws for better rigidity)
+3) aligh the type c charger and superglue the back panel also.
+4) intsert the shaft couper and screw it tight to the shaft
+5) sand down chunk to match of shaft couper if need and screw that also tight
+6) ready to use.
+
 **CAD model :**
 
 <img width="809" height="355" alt="image" src="https://github.com/user-attachments/assets/7a827e9e-1f3c-4879-9863-ce799cd4c2be" />
