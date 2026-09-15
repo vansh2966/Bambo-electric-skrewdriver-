@@ -3,10 +3,10 @@
 well i always wanted and electric skrewdriver, cuz it makes screwing soo much easier, so i though instead of buying one online why not make it one. a simple electric skrew driver to skrew skrews. not much of story behind it.
 
 **feautres :** 
-battery operated
-clock/anti-clock wise roation
-usb type c charging
-enough torque and speed for mini screws
+1) battery operated
+2) clock/anti-clock wise roation
+3) usb type c charging
+4) enough torque and speed for mini screws
 
 **ASSEMBLY INRUSTIONS**
 1) wire everything according to diagram, make sure u wire motor to the switch after inserting it into body
