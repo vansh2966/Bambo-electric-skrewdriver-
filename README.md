@@ -23,6 +23,10 @@ well i always wanted and electric skrewdriver, cuz it makes screwing soo much ea
 <img width="515" height="417" alt="image" src="https://github.com/user-attachments/assets/1f285e8c-b834-48b8-96a1-841591c2abdd" />
 <img width="813" height="619" alt="image" src="https://github.com/user-attachments/assets/90063894-9e6d-4549-93ae-b9e86477ce60" />
 <img width="936" height="689" alt="image" src="https://github.com/user-attachments/assets/6306c90a-adc4-4d18-933f-6473af52ae45" />
+<img width="627" height="367" alt="image" src="https://github.com/user-attachments/assets/34923856-e424-4ed2-8531-a6221800fde4" />
+<img width="968" height="345" alt="image" src="https://github.com/user-attachments/assets/54febf53-d227-4716-9c62-ba56842430c8" />
+
+
 
 **wiring diagram ( might update or change after trying to build it)**
 
