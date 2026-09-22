@@ -20,15 +20,11 @@ well i always wanted and electric skrewdriver, cuz it makes screwing soo much ea
 **CAD model :**
 
 <img width="809" height="355" alt="image" src="https://github.com/user-attachments/assets/7a827e9e-1f3c-4879-9863-ce799cd4c2be" />
-<img width="968" height="345" alt="image" src="https://github.com/user-attachments/assets/aa1e4822-b589-45b2-ae9b-1efffff22b9f" />
-<img width="305" height="335" alt="image" src="https://github.com/user-attachments/assets/2b81c58b-ee03-481d-9a72-9fe4b0eb291c" 
-  
-the screw holes for join the frontend
-
+<img width="305" height="335" alt="image" src="https://github.com/user-attachments/assets/2b81c58b-ee03-481d-9a72-9fe4b0eb291c" /> 
 <img width="813" height="619" alt="image" src="https://github.com/user-attachments/assets/90063894-9e6d-4549-93ae-b9e86477ce60" />
 <img width="936" height="689" alt="image" src="https://github.com/user-attachments/assets/6306c90a-adc4-4d18-933f-6473af52ae45" />
 <img width="627" height="367" alt="image" src="https://github.com/user-attachments/assets/34923856-e424-4ed2-8531-a6221800fde4" />
-<img width="968" height="345" alt="image" src="https://github.com/user-attachments/assets/54febf53-d227-4716-9c62-ba56842430c8" />
+<img width="1007" height="519" alt="image" src="https://github.com/user-attachments/assets/70e796c0-0900-4833-87ab-17507c7a0561" />
 <img width="866" height="668" alt="image" src="https://github.com/user-attachments/assets/df890d31-3048-4134-9758-da5b90670f29" />
 
 D shhaft 3mm to 5mm converter, so that the shaft couper can connect the d shaft of motor and the the hex chunk
