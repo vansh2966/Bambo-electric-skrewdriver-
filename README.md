@@ -25,6 +25,7 @@ well i always wanted and electric skrewdriver, cuz it makes screwing soo much ea
 <img width="936" height="689" alt="image" src="https://github.com/user-attachments/assets/6306c90a-adc4-4d18-933f-6473af52ae45" />
 <img width="627" height="367" alt="image" src="https://github.com/user-attachments/assets/34923856-e424-4ed2-8531-a6221800fde4" />
 <img width="1007" height="519" alt="image" src="https://github.com/user-attachments/assets/70e796c0-0900-4833-87ab-17507c7a0561" />
+thicked the outer wall for mroe rigiditity
 <img width="866" height="668" alt="image" src="https://github.com/user-attachments/assets/df890d31-3048-4134-9758-da5b90670f29" />
 
 D shhaft 3mm to 5mm converter, so that the shaft couper can connect the d shaft of motor and the the hex chunk
