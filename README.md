@@ -10,21 +10,29 @@ well i always wanted and electric skrewdriver, cuz it makes screwing soo much ea
 
 **ASSEMBLY INRUSTIONS**
 1) wire everything according to diagram, make sure u wire motor to the switch after inserting it into body
-2) screw the top lid to the motor and close it with superglue (u can change cad model to add screws for better rigidity)
+2) screw the top lid to the motor and close it
 3) aligh the type c charger and superglue the back panel also.
-4) intsert the shaft couper and screw it tight to the shaft
-5) sand down chunk to match of shaft couper if need and screw that also tight
-6) ready to use.
+4) ummm inseert the 3mm to 5mm convertinto in into the shaft of motor
+5) intsert the shaft coupler and screw it tight to the shaft
+6) insert 5mm the chunk to the shaft coupler and screw it tight
+7) ready to use.
 
 **CAD model :**
 
 <img width="809" height="355" alt="image" src="https://github.com/user-attachments/assets/7a827e9e-1f3c-4879-9863-ce799cd4c2be" />
-<img width="1067" height="448" alt="image" src="https://github.com/user-attachments/assets/442bb743-548a-48ae-b54a-ee7c7fd3381a" />
-<img width="515" height="417" alt="image" src="https://github.com/user-attachments/assets/1f285e8c-b834-48b8-96a1-841591c2abdd" />
+<img width="968" height="345" alt="image" src="https://github.com/user-attachments/assets/aa1e4822-b589-45b2-ae9b-1efffff22b9f" />
+<img width="305" height="335" alt="image" src="https://github.com/user-attachments/assets/2b81c58b-ee03-481d-9a72-9fe4b0eb291c" 
+  
+the screw holes for join the frontend
+
 <img width="813" height="619" alt="image" src="https://github.com/user-attachments/assets/90063894-9e6d-4549-93ae-b9e86477ce60" />
 <img width="936" height="689" alt="image" src="https://github.com/user-attachments/assets/6306c90a-adc4-4d18-933f-6473af52ae45" />
 <img width="627" height="367" alt="image" src="https://github.com/user-attachments/assets/34923856-e424-4ed2-8531-a6221800fde4" />
 <img width="968" height="345" alt="image" src="https://github.com/user-attachments/assets/54febf53-d227-4716-9c62-ba56842430c8" />
+<img width="866" height="668" alt="image" src="https://github.com/user-attachments/assets/df890d31-3048-4134-9758-da5b90670f29" />
+
+D shhaft 3mm to 5mm converter, so that the shaft couper can connect the d shaft of motor and the the hex chunk
+
 
 
 
